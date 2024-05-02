@@ -19,3 +19,5 @@ Ce projet vise à créer un site web responsive avec un menu et trois pages déd
 4. **Illustrations :** Visualisez les impressions d'écran pour mieux comprendre les différentes étapes et fonctionnalités.
 5. **Collaboration :** Ajoutez lgf-dti comme membre du projet et répondez à une issue pour participer activement au projet.
 6. **Gestion de projet :** Utilisez les fonctionnalités de gestion de projet de GitHub pour organiser les tâches et suivre leur avancement.
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]
