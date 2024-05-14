@@ -1607,5 +1607,8 @@ button {
     background-positon-x: 0px;
   }
 }
-
-
+.v-align {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
