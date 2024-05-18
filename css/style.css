@@ -1544,6 +1544,7 @@ button {
 
 .menu__link:hover {
   opacity: 1;
+  color: #00bbf0;
 }
 
 .footer p {
@@ -1704,4 +1705,28 @@ button {
 }
 #IMG_INVRT {
   filter: invert(1);
+}
+
+.mtl a:link {
+  color: var(--text-color);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.mtl a:visited {
+  color: var(--text-color);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.mtl a:hover {
+  color: var(--text-color);
+  background: transparent;
+  text-decoration: none;
+}
+
+.mtl a:active {
+  color: var(--text-color);
+  background-color: transparent;
+  text-decoration: none;
 }
